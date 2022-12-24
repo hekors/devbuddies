@@ -22,8 +22,6 @@
   },
   "devDependencies": {
     "@emotion/react": "^11.10.5",
-    "@mantine/core": "^5.9.5",
-    "@mantine/hooks": "^5.9.5",
     "framer-motion": "^8.0.2",
     "react-icons": "^4.7.1"
   }
